@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 
+#Author Παναγιώτης Πράττης/Panagiotis Prattis
+
 '''
 Write a program which takes for input a title of a movie that the user choses and by using the link
 http://www.omdbapi.com/ it returns the IMDB score and the awards that it may has.
