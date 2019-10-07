@@ -6,6 +6,10 @@ _This programm was created for the first semester class Introduction to Computer
 and is one of a few such simple python programms neccessary to pass the class_
 
 
+> #### Description of project
+>
+>>A program in python which for a movie title inserted by user, using the link http://www.omdbapi.com/ returns the IMDB score and the awards of that movie.
+
 > #### About this project
 >
 > - The comments to make the code understandable, are within the .py archive
