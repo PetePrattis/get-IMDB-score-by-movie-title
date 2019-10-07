@@ -5,7 +5,7 @@
 _This programm was created for the first semester class Introduction to Computer Science 
 and is one of a few such simple python programms neccessary to pass the class_
 
->####About this project
+>#### About this project
 >
 >-The comments to make the code understandable, are within the .py archive
 >-This program runs for Python version 2.7
