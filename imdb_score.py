@@ -2,11 +2,10 @@
 # -*- coding: utf8 -*-
 
 '''
-A project made by the students Παναγιώτης Πράττης Π15120 and Νίκος Κοντόπουλος Π15056
-Exercise 4
 Write a program which takes for input a title of a movie that the user choses and by using the link
 http://www.omdbapi.com/ it returns the IMDB score and the awards that it may has.
 '''
+
 '''
 These are all the fields that you can search for any movie, we search for title, imdbrating and awards
 Example:
