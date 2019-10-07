@@ -1,5 +1,11 @@
-# Python-Projects
+# A Python Programm / Project
 
-**These are my 3 python projects for the class Computer Science Introduction**
+**This is a simple python project from my early days as a Computer Science student**
 
-_The demands of each project and the necessary comments to make the code understandable, are within the .py archives_
+_This programm was created for the first semester class Introduction to Computer Science 
+and is one of a few such simple python programms neccessary to pass the class_
+
+>About this project
+>-The comments to make the code understandable, are within the .py archive
+>-This program runs for Python version 2.7
+>-This repository was created to show the variety of my work and experience as a student
